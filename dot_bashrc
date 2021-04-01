@@ -1,0 +1,3 @@
+alias d="winpty dockdr"
+alias dc="winpty docker-compose"
+alias lv="./devcloud.sh loadvars"
